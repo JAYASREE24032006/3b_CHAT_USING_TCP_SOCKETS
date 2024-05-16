@@ -1,4 +1,7 @@
-# 3b.CREATION FOR CHAT USING TCP SOCKETS
+# EX.NO.3b - CREATION FOR CHAT USING TCP SOCKETS
+
+**DATE : 30.03.2024**
+
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
